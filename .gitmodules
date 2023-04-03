@@ -1,0 +1,6 @@
+[submodule "mtp-frontend"]
+	path = mtp-frontend
+	url = https://github.com/AnjayGoel/mtp-frontend
+[submodule "mtp-backend"]
+	path = mtp-backend
+	url = https://github.com/AnjayGoel/mtp-backend
